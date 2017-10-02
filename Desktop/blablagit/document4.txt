@@ -1,1 +1,2 @@
 feature-e
+Dodajemo text i zelimo ga pushaz na github
